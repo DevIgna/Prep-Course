@@ -1,0 +1,38 @@
+*{
+    justify-content: space-between;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+h1{
+    color: brown;
+};
+
+img{
+    width: 400px;
+    height: 200px;
+};
+
+#thirdDiv{
+    height: 600px;
+    width: 400px;
+    background-color: aqua;
+    border: cadetblue groove 30px;
+    text-align: center;
+};
+.divClass{
+    text-align: center;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    padding: 50px;
+};
+
+body{
+    background-image: url('https://okdiario.com/img/2022/02/17/el-sorprendente-truco-para-cocinar-la-pizza-y-que-te-quede-como-si-fuera-de-horno-de-lena-655x368.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
